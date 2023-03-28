@@ -2,11 +2,11 @@ Chat Application like Whatsapp
 
 ####################  Technologies  #################
 
-React JS 
-Node JS
-Express JS
-Sockets
-Context API
+<br>React JS 
+<br>Node JS
+<br>Express JS
+<br>Sockets
+<br>Context API
 
 #####################  Usage  #######################
 
@@ -14,10 +14,10 @@ Context API
     git clone https://github.com/harismehboob142/Whatsapp-Clone.git
 
 2. navigate to client folder and install node_modules
-    cd client
-    npm i 
-    //if npm i gives some error then run 
-    npm i --legacy-peer-deps --force
+    <br>cd client
+    <br>npm i 
+    <br>//if npm i gives some error then run 
+    <br>npm i --legacy-peer-deps --force
 
 3. navigate to server folder and install node_modules
     <br>cd server
