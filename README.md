@@ -20,13 +20,13 @@ Context API
     npm i --legacy-peer-deps --force
 
 3. navigate to server folder and install node_modules
-    cd server
-    npm i 
-    //if npm i gives some error then run 
-    npm i --legacy-peer-deps --force
+    <br>cd server
+    <br>npm i 
+    <br>//if npm i gives some error then run 
+    <br>npm i --legacy-peer-deps --force
 
 4. Run the project using the commands
-    cd server
-    npm run start
-    cd client 
-    npm run start
+    <br>cd server
+    <br>npm run start
+    <br>cd client 
+    <br>npm run start
